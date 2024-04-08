@@ -105,8 +105,6 @@ This optional challenge extends the first by continuously parsing the log file, 
 
 ### Run Tests 
 
-3. Run Tests
-
    ```sh
    python -m unittest tests.test_parse_data
    python -m unittest tests.test_parse_unlimited
