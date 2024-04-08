@@ -85,7 +85,7 @@ To run this tool, follow these steps:
 5. To execute the second challenge (Unlimited Input Parser), run:
 
     ```sh
-    python app/main.py --challenge 2
+    python app/main.py
     ```
    Follow the prompts to input the required parameters and select 2 for the first challenge.
    This will start the parser that runs indefinitely and outputs the results once every hour.
