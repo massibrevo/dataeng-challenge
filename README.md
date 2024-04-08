@@ -104,7 +104,7 @@ This optional challenge extends the first by continuously parsing the log file, 
 - A list of hostnames that received connections from a specified host.
 - The hostname that generated the most connections.
 
-### Run Tests 
+### Run Tests 
 
    ```sh
    python -m unittest tests.test_parse_data
