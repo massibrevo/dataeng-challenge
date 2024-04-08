@@ -6,7 +6,7 @@
   <p align="center">
     Welcome to the Data Operations Engineer Challenge repository.
     <br />
-    <a href="https://github.com/your_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="[https://github.com/your_username/repo_name](https://github.com/massibrevo/dataeng-challenge)"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
