@@ -103,6 +103,15 @@ This optional challenge extends the first by continuously parsing the log file, 
 - A list of hostnames that received connections from a specified host.
 - The hostname that generated the most connections.
 
+### Run Tests 
+
+3. Run Tests
+
+   ```sh
+   python -m unittest tests.test_parse_data
+   python -m unittest tests.test_parse_unlimited
+   ```
+
 ## Extra
 
 This project also includes optional Docker support for containerization, which hasn't been fully tested. To use Docker to build and run the application in a container, follow these additional steps:
@@ -113,7 +122,7 @@ This project also includes optional Docker support for containerization, which h
     ```sh
     docker build -t clarity-challenge .
     ```
-
+   
 3. Run the application in a Docker container:
 
     ```sh
