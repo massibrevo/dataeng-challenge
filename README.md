@@ -76,17 +76,18 @@ To run this tool, follow these steps:
 3. To execute the first challenge, run:
 
     ```sh
-    python app/main.py --challenge 1
+    python app/main.py
     ```
 
-   Follow the prompts to input the required parameters.
+   Follow the prompts to input the required parameters and select 1 for the first challenge.
+   Then insert a time start/end dates in (unix int format) and a hostname.
 
-4. To execute the second challenge (Unlimited Input Parser), run:
+5. To execute the second challenge (Unlimited Input Parser), run:
 
     ```sh
     python app/main.py --challenge 2
     ```
-
+   Follow the prompts to input the required parameters and select 2 for the first challenge.
    This will start the parser that runs indefinitely and outputs the results once every hour.
 
 ## Goals to Achieve
