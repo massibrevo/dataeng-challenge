@@ -1,20 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="[https://github.com/your_username/repo_nam](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.montecarlodata.com%2Fblog-what-is-a-data-engineering-workflow-definition-key-considerations-and-common-roadblocks%2F&psig=AOvVaw2l1e_I9a6MXtMxaV_wQsU_&ust=1712650169682000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj2gJ2VsoUDFQAAAAAdAAAAABAJ)e">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">Data Operations Engineer Challenge</h3>
 
   <p align="center">
@@ -70,7 +56,7 @@ Here's a brief overview of the directory structure and key files included in thi
 
 - `/app`: The main application directory.
   - `/config`: Configuration files, such as `logging.conf` for logging setup.
-  - `/parser`: Contains the parsing scripts `parse_data.py` and `unlimited_parse.py`.
+  - `/log_parser`: Contains the parsing scripts `parse_data.py` and `unlimited_parse.py`.
   - `main.py`: The entry point script to run the challenges.
 - `/data`: Directory containing sample log files.
 - `/logs`: Directory where application logs are stored.
