@@ -1,13 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-<h3 align="center">Data Operations Engineer Challenge</h3>
-
-  <p align="center">
-    Welcome to the Data Operations Engineer Challenge repository.
-    <br />
-  </p>
-</div>
+<h3 align="center">Data Engineer Challenge</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
